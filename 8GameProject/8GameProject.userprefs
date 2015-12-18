@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Assignment9-EddBrownJr\9GameProject\Assets\Scripts\GameController.cs">
     <Files>
-      <File FileName="Assets\Scripts\Won.cs" Line="7" Column="2" />
-      <File FileName="Assets\Scripts\GameController.cs" Line="14" Column="2" />
+      <File FileName="..\..\Assignment9-EddBrownJr\9GameProject\Assets\Scripts\Pickups.cs" Line="17" Column="3" />
+      <File FileName="..\..\Assignment9-EddBrownJr\9GameProject\Assets\Scripts\GameController.cs" Line="44" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
